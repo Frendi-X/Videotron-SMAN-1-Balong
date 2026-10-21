@@ -25,7 +25,7 @@ Repositori ini berisi kumpulan file konfigurasi yang digunakan untuk pengaturan 
 | Sistem | Videotron LED |
 | IC decoder | ICN1065L |
 | IC decoder | DP32020B |
-| File konfigurasi | `Chips.zip` |
+| File konfigurasi | `RCG P2.5 GKGD ICN1065L DP32030.zip` |
 | Dokumentasi | Folder `image/` |
 
 ### 🎯 Tujuan Konfigurasi
@@ -53,7 +53,7 @@ Konfigurasi yang tepat perlu disesuaikan dengan jenis modul LED, kartu penerima 
 ```text
 Videotron-SMAN-1-Balong/
 ├── README.md
-├── Chips.zip
+├── RCG P2.5 GKGD ICN1065L DP32030.zip
 └── image/
     ├── panel-connection.jpg
     ├── led-mapping.jpg
