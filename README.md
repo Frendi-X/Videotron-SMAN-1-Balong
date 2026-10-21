@@ -66,7 +66,7 @@ Videotron-SMAN-1-Balong/
 
 ## 📝 Catatan Penting
 
-> File konfigurasi di dalam repositori ini ditujukan untuk penggunaan internal teknisi videotron SMKN 1 Madiun.  
+> File konfigurasi di dalam repositori ini ditujukan untuk penggunaan internal teknisi videotron SMAN 1 Balong.  
 > Pastikan semua konfigurasi sesuai dengan jenis panel dan tata letak fisik saat pemasangan.
 
 ---
