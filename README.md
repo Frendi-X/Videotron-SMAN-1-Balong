@@ -48,22 +48,6 @@ Konfigurasi yang tepat perlu disesuaikan dengan jenis modul LED, kartu penerima 
 
 ---
 
-## 📂 Struktur Repositori
-
-```text
-Videotron-SMAN-1-Balong/
-├── README.md
-├── RCG P2.5 GKGD ICN1065L DP32030.zip
-└── image/
-    ├── panel-connection.jpg
-    ├── led-mapping.jpg
-    └── installation-layout.jpg
-```
-
-*Nama file gambar di atas merupakan contoh struktur yang disarankan dan dapat disesuaikan dengan file dokumentasi yang sebenarnya.*
-
----
-
 ## 📝 Catatan Penting
 
 > File konfigurasi di dalam repositori ini ditujukan untuk penggunaan internal teknisi videotron SMAN 1 Balong.  
