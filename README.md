@@ -6,7 +6,7 @@ Repositori ini berisi kumpulan file konfigurasi yang digunakan untuk pengaturan 
 
 ## 🧩 Isi dan Fungsi File
 
-- **`Chips.zip`**  
+- **`RCG P2.5 GKGD ICN1065L DP32030.zip`**  
   Berisi file konfigurasi IC decoder **ICN1065L** dan **DP32020B** yang digunakan sebagai referensi dalam proses konfigurasi panel LED videotron.
 
 - **`image/`**  
