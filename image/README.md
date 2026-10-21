@@ -31,9 +31,9 @@ Gambar-gambar di folder ini digunakan untuk:
 
 ## 📷 Dokumentasi
 
-  ![Dokumentasi](https://github.com/Frendi-X/Videotron-SMKN-1-Madiun/blob/main/image/Videotron%20SMKN%201%20Madiun%20(1).jpeg)
-  ![Dokumentasi](https://github.com/Frendi-X/Videotron-SMKN-1-Madiun/blob/main/image/Videotron%20SMKN%201%20Madiun%20(2).jpeg)
-  ![Dokumentasi](https://github.com/Frendi-X/Videotron-SMKN-1-Madiun/blob/main/image/Videotron%20SMKN%201%20Madiun%20(3).jpeg)
+  ![Dokumentasi](https://github.com/Frendi-X/Videotron-SMAN-1-Balong/blob/main/image/Videotron%20SMAN%201%20Balong%20(1).jpeg)
+  ![Dokumentasi](https://github.com/Frendi-X/Videotron-SMAN-1-Balong/blob/main/image/Videotron%20SMAN%201%20Balong%20(2).jpeg)
+  ![Dokumentasi](https://github.com/Frendi-X/Videotron-SMAN-1-Balong/blob/main/image/Videotron%20SMAN%201%20Balong%20(3).jpeg)
 
 ---
 
